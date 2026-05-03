@@ -1,0 +1,1 @@
+This project is a Python program that tracks daily steps over a 7-day period. It uses functions to set a daily steps goal, record weekly step counts, and evaluate performance by comparing the weekly average to the goal. The program processes user input using loops and conditional statements and displays results using f-strings.
